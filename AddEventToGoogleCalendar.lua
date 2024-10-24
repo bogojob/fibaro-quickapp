@@ -2,7 +2,7 @@
 -- * Date: 24-10-2024
 -- *
 -- * This code is part of the Fibaro gateway environment.
--- * It represents a QuickApp that when activated, sends an email using Google's RestApi.
+-- * It represents a QuickApp that when activated, add a event to Google Calendar of users in attendees list using Google's RestApi.
 -- * It assumes that all parameters that are part of the OAUTH2 authentication system are in the possession of the user.
 -- * ----------------------------------------------------------------------------------------------------------------
 
